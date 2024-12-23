@@ -10,6 +10,13 @@ El siguiente diagrama representa el esquema de la base de datos utilizado en est
 
 Tablas 
 
+Comandos basicos para crear la base de datos y que el backend pueda conectarse a las siguientes tablas
+
+```sql
+use master
+create datbase DataDB
+```
+
 Usuarios
 
 ```sql
